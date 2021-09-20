@@ -24,12 +24,16 @@ module.exports = {
       path: '/pages/contacts'
     },
     {
-      label: 'Tag: セキュリティのビジネス活用',
-      path: '/tag/handwriting/'
+      label: 'Tag: セキュリティ戦略',
+      path: '/tag/sec-mgmt/'
     },
     {
-      label: 'Tag: 社長シミュレーション',
-      path: '/tag/handwriting/'
+      label: 'Tag: セキュリティマネジメント',
+      path: '/tag/sec-strat/'
+    },
+    {
+      label: 'Tag: ビジネス',
+      path: '/tag/business/'
     }
 
   ],
