@@ -36,7 +36,7 @@ module.exports = {
   author: {
     name: '12ban',
     photo: '/photo.jpg',
-    bio: 'Security Management',
+    bio: 'Security Strategy & Management. and... Business',
     contacts: {
       email: '',
       facebook: '#',
