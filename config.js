@@ -3,8 +3,8 @@
 module.exports = {
   url: 'https://lumen.netlify.com',
   pathPrefix: '/',
-  title: 'Blog by John Doe',
-  subtitle: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
+  title: 'Blog by 12ban',
+  subtitle: 'Security is Love. Security Management',
   copyright: '© All rights reserved.',
   disqusShortname: '',
   postsPerPage: 4,
@@ -22,12 +22,21 @@ module.exports = {
     {
       label: 'Contact me',
       path: '/pages/contacts'
+    },
+    {
+      label: 'Tag: セキュリティのビジネス活用',
+      path: '/tag/handwriting/'
+    },
+    {
+      label: 'Tag: 社長シミュレーション',
+      path: '/tag/handwriting/'
     }
+
   ],
   author: {
-    name: 'John Doe',
+    name: '12ban',
     photo: '/photo.jpg',
-    bio: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
+    bio: 'Security Management',
     contacts: {
       email: '',
       facebook: '#',
