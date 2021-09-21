@@ -1,7 +1,7 @@
 'use strict';
 
 module.exports = {
-  url: 'https://lumen.netlify.com',
+  url: 'https://mgmt.12auth.com',
   pathPrefix: '/',
   title: 'Sec Mgmt - 12ban',
   subtitle: 'Security is Love. Security Management',
