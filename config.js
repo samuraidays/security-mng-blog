@@ -12,15 +12,15 @@ module.exports = {
   useKatex: false,
   menu: [
     {
-      label: 'Articles',
+      label: 'ブログ',
       path: '/'
     },
     {
-      label: 'About me',
+      label: '12banについて',
       path: '/pages/about'
     },
     {
-      label: 'Contact me',
+      label: '連絡先',
       path: '/pages/contacts'
     },
     {
