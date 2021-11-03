@@ -20,16 +20,12 @@ module.exports = {
       path: '/pages/about'
     },
     {
-      label: '連絡先',
-      path: '/pages/contacts'
-    },
-    {
       label: 'Tag: セキュリティ戦略',
-      path: '/tag/sec-mgmt/'
+      path: '/tag/Security-Strategy/'
     },
     {
       label: 'Tag: セキュリティマネジメント',
-      path: '/tag/sec-strat/'
+      path: '/tag/Security-Management/'
     },
     {
       label: 'Tag: ビジネス',
