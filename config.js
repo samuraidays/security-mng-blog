@@ -21,11 +21,11 @@ module.exports = {
     },
     {
       label: 'Tag: セキュリティ戦略',
-      path: '/tag/Security-Strategy/'
+      path: '/tag/security-strategy/'
     },
     {
       label: 'Tag: セキュリティマネジメント',
-      path: '/tag/Security-Management/'
+      path: '/tag/security-management/'
     },
     {
       label: 'Tag: ビジネス',
