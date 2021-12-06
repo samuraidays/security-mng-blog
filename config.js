@@ -16,10 +16,6 @@ module.exports = {
       path: '/'
     },
     {
-      label: '12banについて',
-      path: '/pages/about'
-    },
-    {
       label: 'Tag: セキュリティ戦略',
       path: '/tag/security-strategy/'
     },
@@ -36,13 +32,13 @@ module.exports = {
   author: {
     name: '12ban',
     photo: '/top2-photo.png',
-    bio: 'Security Strategy & Management',
+    bio: '',
     contacts: {
       email: '',
       facebook: '',
       telegram: '',
-      twitter: '#',
-      github: '#',
+      twitter: '12bannn',
+      github: '',
       rss: '',
       vkontakte: '',
       linkedin: '',
